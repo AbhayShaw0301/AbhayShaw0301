@@ -5,6 +5,15 @@
 
 <div align="center"><b><i>I'm passionate about exploring and learning new things regularly.</i></b></div>
 
+## About Me
+- I am  an IT undergrad pursuing my Bachelor's Degree in Information Technology.
+-  I’m currently working on MERN Stack Development.
+-  I’m currently learning NextJS 
+
+<br>
+
+---
+
 <br> <!-- Adding a line break for a decent gap -->
 <h2 align="center"> Github Stats</h2>
  
